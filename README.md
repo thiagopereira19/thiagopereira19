@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Thiago Pereira 
 
 
-- 🔭 Hoje sou graduando em ciência da computação na Universidade Estadual de Santa Cruz - UESC
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Sou graduando no curso de ciência da computação na Universidade Estadual de Santa Cruz - UESC
+- 🌱 Atualmente estudando JavaScript e introduzindo em Machine Learning.
+
 
 ‹div>
 <a href="https://beacons.ai/thiagopereira19">
