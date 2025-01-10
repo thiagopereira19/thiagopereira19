@@ -1,19 +1,10 @@
 <h2 align="left">Hi👋! My name is Thiago Pereira.</h2>
 
-## Olá! Eu sou o Thiago Pereira 
+## 
 
-
-- 🔭 Sou graduando no curso de ciência da computação na Universidade Estadual de Santa Cruz - UESC
-- 🌱 Atualmente estudando JavaScript e introduzindo em Machine Learning.
-
-
-
-
-
-<p align="left">  
 🎓 Graduando em Ciências da Computação na Universidade Estadual de Santa Cruz - UESC 
 🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
-</p>
+
 
 
 ###
