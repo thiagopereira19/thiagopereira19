@@ -18,7 +18,7 @@
 
 ###
 
-<br><br>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   <img width="12" />
@@ -33,7 +33,7 @@
 </div>
 
 ###
-
+<br>
 <div align="left">
   
   <a href="https://instagram.com/thiago_s19" target="_blank">
