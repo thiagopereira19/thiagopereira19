@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thiago Pereira ![image](https://github.com/user-attachments/assets/5879dc3f-36a9-45ce-a245-612cdb03ad41)
+<h2 align="left">Hi 👋! My name is Thiago Pereira 🇵🇹​
  🇵🇹 </h2>
 
 - 🎓 Graduando em Ciências da Computação na Universidade Estadual de Santa Cruz - UESC 
