@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagopereira19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 
 ###
 
@@ -33,7 +31,7 @@
 </div>
 
 ###
-<br>
+
 <div align="left">
   
   <a href="https://instagram.com/thiago_s19" target="_blank">
@@ -47,7 +45,6 @@
   </a>
 
 </div>
-
 
 
 ###
