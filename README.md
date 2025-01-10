@@ -31,7 +31,7 @@
 </div>
 
 ###
-
+<h2>Minhas redes sociais </h2>
 <div align="left">
   
   <a href="https://instagram.com/thiago_s19" target="_blank">
