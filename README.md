@@ -1,9 +1,8 @@
-<h2 align="left">Hi 👋! My name is Thiago Pereira.</h2>
+<h2 align="left">Hi👋! My name is Thiago Pereira.</h2>
 
-<p align="left">
-🎯 Desenvolvedor apaixonado por criar soluções inovadoras e compartilhar conhecimento.  
-🌍 Localizado em [sua cidade ou país].  
-🎓 Estudante/Graduado em [sua área de formação, exemplo: Engenharia de Software].  
+##
+<p align="left">  
+🎓 Graduando em Ciências da Computação na Universidade Estadual de Santa Cruz - UESC 
 🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 </p>
 
