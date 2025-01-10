@@ -1,11 +1,12 @@
 <h2 align="left">Hi 👋! My name is Thiago Pereira </h2>
+<br>
 
 - 🎓 Computer Science student at the State University of Santa Cruz - UESC 
 - 🚀 Always seeking to learn new technologies and improve my skills.
 
 
 ###
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagopereira19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
