@@ -1,8 +1,7 @@
-<h2 align="left">Hi 👋! My name is Thiago Pereira  🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is Thiago Pereira </h2>
 
-- 🎓 Graduando em Ciências da Computação na Universidade Estadual de Santa Cruz - UESC 
-- 🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
-
+- 🎓 Computer Science student at the State University of Santa Cruz - UESC  🇧🇷
+- 🚀 Always seeking to learn new technologies and improve my skills.
 
 
 ###
