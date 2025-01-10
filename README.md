@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java POO" />
   <img width="12" />
 </div>
 
@@ -40,25 +40,6 @@
   </a>
 
 </div>
-
-##
-
-<div>
-    <a href="https://instagram.com/thiago_s19" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/thiago-p-211906178/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:thiago.contato1965@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    
-</div>
-
-
-
-
 
 
 
