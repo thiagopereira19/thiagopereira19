@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Thiago Pereira </h2>
 
-- 🎓 Computer Science student at the State University of Santa Cruz - UESC  🇧🇷
+- 🎓 Computer Science student at the State University of Santa Cruz - UESC 
 - 🚀 Always seeking to learn new technologies and improve my skills.
 
 
