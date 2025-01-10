@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thiago Pereira </h2>
+<h2 align="left">Hi👋! My name is Thiago Pereira </h2>
 <br>
 
 - 🎓 Computer Science student at the State University of Santa Cruz - UESC 
