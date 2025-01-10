@@ -16,7 +16,6 @@
 
 ###
 <h2>Technologies I study, work with, and have experience in</h2>
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   <img width="12" />
