@@ -33,9 +33,7 @@
 <h2>Connect with me</h2>
 <div align="left">
   
-  <a href="https://instagram.com/thiago_s19" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-</a>
+
   <a href="mailto:thiago.contato1965@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
