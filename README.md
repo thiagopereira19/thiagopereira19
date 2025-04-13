@@ -1,53 +1,73 @@
-<h2 align="left">Hi👋! My name is Thiago Pereira </h2>
-<br>
+<h2 align="left">👋 Hi! I'm Thiago Pereira</h2>
 
-- 🎓 Computer Science student at the State University of Santa Cruz - UESC 
-- 🚀 Always seeking to learn new technologies and improve my skills.
+🎓 Computer Science undergraduate at UESC  
+🎓 Systems Development technical course undergraduate at SENAI  
+💻 Focused on Systems Development and Web Interfaces  
+🚀 Passionate about creating intuitive and responsive digital experiences    
 
+---
 
-###
-<br>
+### 💡 About me
+
+I am passionate about creating interfaces that truly make a difference in user experience. I have experience with technologies such as **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, and **Git**.
+
+Currently, I am starting my studies in **React Native** to expand my knowledge and begin developing high-quality mobile applications.
+
+Moreover, due to my background at UESC and the technical course at SENAI, I have built a strong foundation in languages like **C**, **Java (OOP)**, **C#**, **Python**, and **SQL**, which allows me to understand programming logic, data structures, and back-end development well.
+
+I am seeking opportunities where I can **apply and expand my knowledge on challenging projects**, always looking for innovation and quality in development.
+
+✨ I also highly value soft skills such as:
+- Teamwork  
+- Creative problem solving  
+- Clear and effective communication  
+
+---
+
+### 🛠️ Technologies and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagopereira19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagopereira19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagopereira19&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereira19&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
 
+---
 
-###
-<h2>Technologies I study, work with, and have experience in</h2>
+### 🌍 Languages
+
+- **English**: Intermediate  
+
+---
+
+### 🤝 Connect with me
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java POO" />
-  <img width="12" />
+  <a href="mailto:Thiagodiju@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiagopereira19/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
-###
-<h2>Connect with me</h2>
-<div align="left">
-  
-
-  <a href="mailto:thiago.contato1965@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-p-211906178/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-
-</div>
-
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagopereira19/thiagopereira19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagopereira19/thiagopereira19/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiagopereira19/thiagopereira19/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagopereira19/thiagopereira19/output/github-contribution-grid-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/thiagopereira19/thiagopereira19/output/github-contribution-grid-snake.svg" />
 </picture>
-
-###
