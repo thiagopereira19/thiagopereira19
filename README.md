@@ -13,7 +13,7 @@ I am passionate about creating interfaces that truly make a difference in user e
 
 Currently, I am starting my studies in **React Native** to expand my knowledge and begin developing high-quality mobile applications.
 
-Moreover, due to my background at UESC and the technical course at SENAI, I have built a strong foundation in languages like **C**, **Java (OOP)**, **C#**, **Python**, and **SQL**, which allows me to understand programming logic, data structures, and back-end development well.
+Moreover, due to my background at UESC and the technical course at SENAI, I have built a strong foundation in languages like **C**, **Java(POO)**, **C#**, **Python**, and **SQL**, which allows me to understand programming logic, data structures, and back-end development well.
 
 I am seeking opportunities where I can **apply and expand my knowledge on challenging projects**, always looking for innovation and quality in development.
 
